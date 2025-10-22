@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / AI Engineer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Challenge,%20Create,%20Collaboration,%20Communication;8+%2B%20years%20of%20coding%20experience;%20passionate%20and%20never%20stop%20learning&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Create,%20Challenge,%20Collaboration;8+%2B%20years%20of%20coding%20experience;%20passionate%20and%20never%20stop%20learning&center=true&width=380&height=45"></a>
 </p>
 
 ## About me
